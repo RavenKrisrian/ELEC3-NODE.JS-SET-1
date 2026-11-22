@@ -1,0 +1,18 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "ELEC 3 N1 npm and package management activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Raven Kristian Abarintos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
